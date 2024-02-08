@@ -1,0 +1,73 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+.main-box{
+    height: 500px;
+    width: 400px;
+    background-color: black;
+    margin: 0 auto;
+    padding-top: 50px;
+    border-radius: 20px;
+}
+.display{
+    height: 60px;
+    width: 350px;
+    background-color: whitesmoke;
+    margin-left: 20px;
+    border-radius: 20px;
+    font-size: larger;
+}
+.box1{
+    height: 40px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.box2{
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.box3{
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.box4{
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.box5{
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.func-num{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: #464033 ;
+    color: white;
+    margin-left: 20px;
+    
+}
+.box2 , .box3 , .box4 , .box5{
+    margin-top: 10px;
+}
+#divison , #mul , #sub , #add , #equal{
+    background-color: #FD7F20;
+}
+#ac , #del , #moduler{
+    background-color: gray;
+    color: black;
+}
+#del{
+    color: black;
+    font-size: large;
+}
+
